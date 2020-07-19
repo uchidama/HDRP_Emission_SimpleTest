@@ -1,6 +1,7 @@
 # HDRP_Emission_SimpleTest
 [![Image from Gyazo](https://i.gyazo.com/7be81934a9d2991480eb2f46b03a8160.gif)](https://gyazo.com/7be81934a9d2991480eb2f46b03a8160)  
-Unity HDRP Emission SimpleTest
+Unity HDRP Emission SimpleTest  
+[On YouTube](https://youtu.be/SmaSULCV7Bw)  
 
 # System requirements
 - Unity 2019.4.4f1 or later
